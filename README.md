@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @lakshmisy
 - 👀 I’m interested in learning new things all the time.
-- 🌱 I’m currently learning to set up all tools I need for onboarding
 - 💞️ I’m looking to collaborate on anything to get an understanding for how things are done here
 - 📫 Reach me via slack
 
